@@ -1,4 +1,4 @@
-# APM-Demo0
+# angular-store
 
 Starter files with no NgRx added.
 
